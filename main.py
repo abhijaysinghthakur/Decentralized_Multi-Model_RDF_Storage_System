@@ -28,7 +28,7 @@ def main():
         neo_server = neo4j_server(
             uri="bolt://localhost:7687",
             user="neo4j",
-            password="abhijay"  # Updated password
+            password="abhijay"  
         )
         neo_server.connect()
 
