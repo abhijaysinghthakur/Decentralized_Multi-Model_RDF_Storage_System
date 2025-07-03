@@ -3,5 +3,5 @@
 #rm -rf *
 #cd ..
 # Start MongoDB
-mongod --dbpath /Users/shlok/nosql_proj/mongo_data
+mongod --dbpath /Users/abhijay/nosql_proj/mongo_data
 
